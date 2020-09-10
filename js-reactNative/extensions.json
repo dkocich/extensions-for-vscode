@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "msjsdiag.vscode-react-native",
+    "diemasmichiels.emulate",
+    "jundat95.react-native-snippet",
+    "rocketseat.rocketseatreactnative",
+    "kelset.rn-full-pack",
+    "santosh.react-native-snippet",
+    "theshukran.theshukran-react-utils",
+    "zetta.react-native-vscode-extensionpack",
+    "milobo.react-native-styled-component-snippets"
+  ]
+}

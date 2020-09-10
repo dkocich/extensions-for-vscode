@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dongli.python-preview",
+    "donjayamanne.python-extension-pack",
+    "frhtylcn.pythonsnippets",
+    "kiteco.kite",
+    "littlefoxteam.vscode-python-test-adapter",
+    "magicstack.MagicPython",
+    "mgesbert.python-path",
+    "ms-python.python",
+    "RickyWhite.python-template-snippets",
+    "seanwu.vscode-qt-for-python",
+    "tht13.python",
+    "tushortz.python-extended-snippets"
+  ]
+}

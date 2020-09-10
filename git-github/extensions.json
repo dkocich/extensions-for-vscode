@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bierner.markdown-preview-github-styles",
+    "github.vscode-pull-request-github",
+    "knisterpeter.vscode-github",
+    "sysoev.vscode-open-in-github",
+    "ziyasal.vscode-open-in-github"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "kgrzywocz.wsl-path",
+    "lfurzewaddock.vscode-wsl-workspacefolder",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode-remote.vscode-remote-extensionpack"
+  ]
+}

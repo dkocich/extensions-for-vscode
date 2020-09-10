@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "chflick.firecode",
+    "hasanakg.firebase-snippets",
+    "jsayol.firebase-explorer",
+    "peterhdd.firebase-firestore-snippets",
+    "smkamranqadri.vscode-bolt-language",
+    "toba.vsfire",
+
+    "googlecloudtools.cloudcode",
+
+    "mindaro.mindaro",
+    "redhat.vscode-yaml"
+
+  ]
+}

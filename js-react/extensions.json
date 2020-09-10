@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "burkeholland.react-food-truck",
+    "infeng.vscode-react-typescript",
+    "jawandarajbir.react-vscode-extension-pack",
+    "mikehanson.auto-barrel",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}

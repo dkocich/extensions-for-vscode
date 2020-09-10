@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "diemasmichiels.emulate",
+    "joshdsommer.vscode-add-angular-native-files",
+    "nativescript.nativescript",
+    "pkosta2006.tns-cli",
+    "tsvetan-ganev.nativescript-xml-snippets",
+    "wwwalkerrun.nativescript-ng2-snippets"
+  ]
+}

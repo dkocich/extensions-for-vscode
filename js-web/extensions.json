@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "abusaidm.html-snippets",
+    "coenraads.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "firefox-devtools.vscode-firefox-debug",
+    "formulahendry.auto-close-tag",
+    "joelday.docthis",
+    "kiteco.kite",
+    "mayeedwin.vscode-pwa",
+    "mikehanson.auto-barrel",
+    "msjsdiag.debugger-for-chrome",
+    "msjsdiag.debugger-for-edge",
+    "ritwickdey.liveserver",
+    "rvest.vs-code-prettier-eslint",
+    "steoates.autoimport",
+    "xabikos.javascriptsnippets"
+  ]
+}

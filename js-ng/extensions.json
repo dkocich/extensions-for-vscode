@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    "1tontech.angular-material",
+    "alexiv.vscode-angular2-files",
+    "angular.ng-template",
+    "angulardoc.angulardoc-vscode",
+    "cyrilletuzi.angular-schematics",
+    "danwahlin.angular2-snippets",
+    "devboosts.angular-productivity-pack",
+    "doggy8088.angular-extension-pack",
+    "herrherrmann.angular-bootstrap",
+    "infinity1207.angular2-switcher",
+    "john-crowson.angular-file-changer",
+    "johnpapa.angular-essentials",
+    "johnpapa.angular2",  
+    "loiane.angular-extension-pack",
+    "marinhobrandao.angular2tests",
+    "mikael.angular-beastcode",
+    "natewallace.angular2-inline",
+    "ng-42.ng-fortytwo-vscode-extension",
+    "nrwl.angular-console",
+    "onixie.angular-component-extension",
+    "uvbrain.angular2",
+    "vismalietuva.vscode-angular-support",
+
+    "davidbabel.vscode-simpler-icons"
+  ]
+}

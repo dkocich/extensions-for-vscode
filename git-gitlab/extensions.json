@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "balazs4.gitlab-pipeline-monitor",
+    "gitlab.gitlab-workflow",
+    "jasonn-porch.gitlab-mr",
+    "logerfo.gitlab-notifications",
+    "ziyasal.vscode-open-in-github"
+  ]
+}

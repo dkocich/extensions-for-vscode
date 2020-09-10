@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-azuretools.vscode-docker",
+    "formulahendry.docker-explorer",
+    "henriiik.docker-linter",
+    "tiibun.vscode-docker-ws",
+    "jeff-hykin.better-dockerfile-syntax",
+    "marquesmps.dockerfile-validator"
+  ]
+}

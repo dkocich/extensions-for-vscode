@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "42crunch.vscode-openapi",
+    "arjun.swagger-viewer",
+    "atif.vs-redoc-viewer",
+    "jarga.apib",
+    "mimarec.swagger-doc-viewer",
+    "vncz.vscode-apielements"
+  ]
+}

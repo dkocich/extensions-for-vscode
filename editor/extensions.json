@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "docter60.vscode-terminal-for-ubuntu",
+    "wraith13.windows-terminal",
+
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+
+    "alefragnani.project-manager",
+    "be5invis.toml",
+    "formulahendry.code-runner",
+    "hookyqr.beautify",
+    "jumpinjackie.vscode-map-preview",
+    "k--kato.intellij-idea-keybindings",
+    "lmcarreiro.vscode-smart-column-indenter",
+    "nhoizey.gremlins",
+    "pkief.material-icon-theme",
+    "tamasfe.even-better-toml",
+    "wayou.vscode-todo-highlight"
+  ]
+}

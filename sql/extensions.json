@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "ms-mssql.sqlops-debug",
+    "usqlextpublisher.usql-vscode-ext"
+  ]
+}
