@@ -11,6 +11,15 @@
     "RickyWhite.python-template-snippets",
     "seanwu.vscode-qt-for-python",
     "tht13.python",
-    "tushortz.python-extended-snippets"
+    "tushortz.python-extended-snippets",
+    
+    "almenon.arepl",
+    "kevinrose.vsc-python-indent0",
+    "ms-pyright.pyright",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "njqdev.vscode-python-typehint",
+    "tabnine.tabnine-vscode",
+    "zainchen.json"
   ]
 }
