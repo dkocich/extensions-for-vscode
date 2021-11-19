@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "basarat.god",
     "dbaeumer.vscode-eslint",
     "gregorbiswanger.json2ts",
     "kisstkondoros.typelens",
@@ -10,7 +9,6 @@
     "miclo.sort-typescript-imports",
     "mike-co.import-sorter",
     "mikehanson.auto-barrel",
-    "ms-vscode.typescript-javascript-grammar",
     "rbbit.typescript-hero",
     "stringham.move-ts",
     "visualstudioexptteam.vscodeintellicode"
